@@ -6,7 +6,7 @@ https://lucid.app/lucidchart/14096ebb-5450-4746-a4d7-52fd0f07bb36/edit?viewport_
 
 ### Página oficial TP
 
-https://sites.google.com/site/gestiondedatosutn/trabajo-practico
+https://sites.google.com/site/gestiondedatosutn/trabajo-pr%C3%A1ctico
 
 ### DER - Relacional
 
