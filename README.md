@@ -1,4 +1,4 @@
-## TP Gestión de Datos 2021 1° Cuatrimestre
+## TP Gestión de Datos 2021 - 1C
 
 ### DER - Relacional - BI
 
